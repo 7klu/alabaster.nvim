@@ -262,7 +262,7 @@ if vim.o.background == "dark" then
         ["@repeat"] = { fg = ansi.white },
         ["@string"] = { fg = string_fg },
         ["@string.regex"] = { bg = "#1d292b", fg = const_fg },
-        ["@string.escape"] = { fg = "#1d292b", bold = true },
+        ["@string.escape"] = { fg = "#70998b", bold = true },
         ["@symbol"] = {},
         ["@type"] = { fg = ansi.white },
         ["@type.builtin"] = { fg = ansi.white },
