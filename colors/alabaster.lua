@@ -226,7 +226,7 @@ if vim.o.background == "dark" then
         TSRepeat = { fg = ansi.white },
         TSString = { fg = string_fg },
         TSStringRegex = { bg = "#1d292b", fg = const_fg },
-        TSStringEscape = { bg = "#1d292b", fg = const_fg },
+        TSStringEscape = { bg = "#1d292b", fg = "#343b33", bold = true },
         TSSymbol = {},
         TSType = { fg = ansi.white },
         TSTypeBuiltin = { fg = ansi.white },
