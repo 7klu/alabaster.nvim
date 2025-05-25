@@ -639,7 +639,7 @@ else
         ["@string"] = { fg = string_fg },
         ["@string.regex"] = { bg = bg, fg = "#777777" },
         ["@string.escape"] = { bg = bg, fg = "#665252" },
-        ["@character.printf"] = { bg = bg, fg = "#927ccc", bold = true },
+        ["@character.printf"] = { bg = bg, fg = "#734cd9", bold = true },
         ["@symbol"] = {},
         ["@type"] = { fg = ansi.black },
         ["@type.builtin"] = { fg = ansi.black },
