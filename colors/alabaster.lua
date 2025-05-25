@@ -132,7 +132,7 @@ if vim.o.background == "dark" then
         --- SYNTAX I: TS groups link to these
         Constant = { fg = const_fg },
         String = { fg = string_fg },
-        Character = { fg = "#6fa367" },
+        Character = { fg = "#734cd9" },
         Number = { fg = const_fg },
         Boolean = { fg = const_fg },
         Float = { fg = const_fg },
