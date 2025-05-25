@@ -133,6 +133,7 @@ if vim.o.background == "dark" then
         Constant = { fg = const_fg },
         String = { fg = string_fg },
         Character = { fg = const_fg },
+        CharacterPrintf = { fg = "#e8a7e5", bold = true },
         Number = { fg = const_fg },
         Boolean = { fg = const_fg },
         Float = { fg = const_fg },
